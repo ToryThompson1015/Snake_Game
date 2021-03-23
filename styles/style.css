@@ -1,0 +1,11 @@
+.grid{
+    width: 200px;
+    height: 200px;
+    border: solid black 10px;
+
+}
+
+.grid div {
+    width: 20px;
+    height: 20px;
+}
